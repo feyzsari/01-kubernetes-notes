@@ -4,7 +4,7 @@
 * Headlamp | Headlamp is an easy-to-use and extensible Kubernetes web UI. | <https://github.com/kinvolk/headlamp>
 * Lens | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. | https://k8slens.dev/
 
-## Distro ve installer
+## Distro & installer
 
 * K0S | k0s is the simple, solid & certified Kubernetes distribution that works on any infrastructure: public & private clouds, on-premises, edge & hybrid. It's 100% open source & free | <https://k0sproject.io/>
 * K3S | The certified Kubernetes distribution built for IoT & Edge computing | <https://k3s.io/>
@@ -19,7 +19,7 @@
 * Docker Completion for Powershell | <https://github.com/matt9ucci/DockerCompletion>
 * Krew | Krew is the plugin manager for kubectl command-line tool. | <https://krew.sigs.k8s.io/>
 
-## Diğer
+## Others
 
 * Footloose | Vagrant but with containers | https://github.com/weaveworks/footloose
 * Kured | (KUbernetes REboot Daemon) is a daemonset that performs safe automatic node reboots when the need to do so is indicated by the package management system of the underlying OS. | https://github.com/weaveworks/kured
